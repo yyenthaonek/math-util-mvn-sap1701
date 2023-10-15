@@ -6,6 +6,8 @@
 * A Unit Test test script using JUNIT Test Framework
 * A CI ( Continuous Integration) script running on GitHub action
 
-### Connect me via yyenthao1507@gmail.com
+![Test script with JUnit]()
+
+#### Connect me via yyenthao1507@gmail.com
 
 ##### Copyright &#169; 2023 yenthao
