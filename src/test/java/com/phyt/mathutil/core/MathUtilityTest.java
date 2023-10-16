@@ -26,6 +26,6 @@ public class MathUtilityTest {
     @Test //dính đến thuật ngữ framework
     
     public void verifyFactorialGivenRightArgument0ReturnOk() {
-        assertEquals(1, MathUtility.getFactorial(6));
+        assertEquals(720, MathUtility.getFactorial(6));
     }
 }
